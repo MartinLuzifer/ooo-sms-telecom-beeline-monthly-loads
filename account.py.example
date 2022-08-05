@@ -1,0 +1,3 @@
+ACCOUNTS = (
+    {"account": "PV001", "login": "oper001", "password": "001001001"}
+)
